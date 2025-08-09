@@ -1,0 +1,16 @@
+{
+  "name": "recursion-practise",
+  "version": "0.0.1",
+  "description": "Set of 30 recursion practice exercises",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "functional programming",
+    "recursion",
+    "javascript"
+  ],
+  "author": "Oskar Meljon",
+  "license": "ISC"
+}
